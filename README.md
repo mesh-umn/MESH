@@ -54,9 +54,15 @@ MESH is built using Apache Maven. To built MESH and its examples, run:
 ```
 mvn -DskipTests clean package
 ```
+
+## How to Run
+
+You can find details of how to execute your graph data using MESH such as input data format and execution command at [here](http://mesh.cs.umn.edu/setup.html), and a programming guide (MESH APIs) at [here](http://mesh.cs.umn.edu/guide.html).
+
+
 ## About
 ![](img/nsf_100x100.png) 
 
-This material is based upon work supported by the National Science Foundation under Grant No. IIS-1422802 ( NSF Award Abstract). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation. 
+This material is based upon work supported by the National Science Foundation under Grant No. IIS-1422802 (NSF Award Abstract). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation. 
 
 **MESH is developed by [Distributed Computing Systems Group](http://dcsg.cs.umn.edu/) at University of Minnesota, Twin Cities**
